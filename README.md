@@ -13,7 +13,8 @@ Built as a beginner project, but fully scalable into a full-featured task manage
 
 ## 📸 Screenshots
 
-![Todo Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)
+![Screenshot](assets/screenshot.png)
+
 
 ---
 
